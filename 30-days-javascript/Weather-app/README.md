@@ -2,7 +2,6 @@
 
 A sleek, responsive weather application that provides real-time weather information for any location worldwide. Built with HTML, CSS, and JavaScript, utilizing the WeatherAPI for accurate weather data.
 
-
 # 🌟 Features
 
 **Real-time Weather Data:** Get current weather information for any location
@@ -50,15 +49,15 @@ Enter any city name in the search bar
 Press Enter or click the search icon
 View detailed weather information including:
 
-Temperature in Celsius
+*Temperature in Celsius
 Humidity percentage
 Wind speed
 Local time
 Region and country information
+*
 
 
-
-🎨 Customization
+# 🎨 Customization
 You can customize the app by:
 
 Modifying the gradient colors in styles.css
@@ -66,14 +65,10 @@ Adding more weather parameters from the API
 Changing the default city in script.js
 Updating the icons in the images folder
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-✨ Acknowledgments
+# ✨ Acknowledgments
 
 Weather data provided by WeatherAPI
 Icons used in the project (add credits for your icons)
 
 
-⭐️ If you found this project helpful, please consider giving it a star on GitHub!
+*⭐️ If you found this project helpful, please consider giving it a star on GitHub!*
