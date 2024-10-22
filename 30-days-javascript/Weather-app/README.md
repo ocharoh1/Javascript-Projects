@@ -1,6 +1,8 @@
 Weather App
+
 A sleek, responsive weather application that provides real-time weather information for any location worldwide. Built with HTML, CSS, and JavaScript, utilizing the WeatherAPI for accurate weather data.
-Show Image
+
+
 🌟 Features
 
 Real-time Weather Data: Get current weather information for any location
@@ -21,10 +23,12 @@ WeatherAPI for weather data
 ⚙️ Installation
 
 Clone the repository:
-bashCopygit clone https://github.com/your-username/weather-app.git
+git clone https://github.com/ocharoh1/Javascript-Projects.git
 
 Navigate to the project directory:
-bashCopycd weather-app
+```console
+cd weather-app
+```
 
 Open index.html in your browser or use a local server.
 
