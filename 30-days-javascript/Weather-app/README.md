@@ -1,18 +1,20 @@
-Weather App
+# Weather App
 
 A sleek, responsive weather application that provides real-time weather information for any location worldwide. Built with HTML, CSS, and JavaScript, utilizing the WeatherAPI for accurate weather data.
 
 
-🌟 Features
+# 🌟 Features
 
-Real-time Weather Data: Get current weather information for any location
-Responsive Design: Works seamlessly on desktop and mobile devices
-Clean UI: Modern interface with gradient background and intuitive layout
-Detailed Information: Shows temperature, humidity, wind speed, and local time
-Default Location: Loads with Nairobi weather data on startup
+**Real-time Weather Data:** Get current weather information for any location
+**Responsive Design:** Works seamlessly on desktop and mobile devices
+**Clean UI**: Modern interface with gradient background and intuitive layout
+**Detailed Information:** Shows temperature, humidity, wind speed, and local time
+**Default Location:** Loads with Nairobi weather data on startup
 
-🚀 Demo
+# 🚀 Demo
+
 Check out the live demo: Weather App
+# 
 💻 Technologies Used
 
 HTML5
@@ -20,26 +22,28 @@ CSS3
 JavaScript (ES6+)
 WeatherAPI for weather data
 
-⚙️ Installation
+# ⚙️ Installation
 
 Clone the repository:
+```console
 git clone https://github.com/ocharoh1/Javascript-Projects.git
+```
 
 Navigate to the project directory:
 ```console
 cd weather-app
 ```
 
-Open index.html in your browser or use a local server.
+*Open index.html in your browser or use a local server.*
 
-🔑 API Key Setup
+# 🔑 API Key Setup
 
 Sign up at WeatherAPI to get your API key
 Replace the API key in script.js:
 javascriptCopyconst apiKey = 'your-api-key-here';
 
 
-📱 Usage
+# 📱 Usage
 
 The app loads with Nairobi's weather information by default
 Enter any city name in the search bar
